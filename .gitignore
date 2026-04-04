@@ -1,0 +1,8 @@
+node_modules/
+.metadata/
+.env
+build/
+dist/
+target/
+*.log
+.DS_Store
